@@ -1,0 +1,10 @@
+C:\Users\gdu9\Source\Repos\hyungsungjae125\HiWeather11-14\WindowsFormsHiWeather\WindowsFormsHiWeather\bin\Debug\WindowsFormsHiWeather.exe.config
+C:\Users\gdu9\Source\Repos\hyungsungjae125\HiWeather11-14\WindowsFormsHiWeather\WindowsFormsHiWeather\bin\Debug\WindowsFormsHiWeather.exe
+C:\Users\gdu9\Source\Repos\hyungsungjae125\HiWeather11-14\WindowsFormsHiWeather\WindowsFormsHiWeather\bin\Debug\WindowsFormsHiWeather.pdb
+C:\Users\gdu9\Source\Repos\hyungsungjae125\HiWeather11-14\WindowsFormsHiWeather\WindowsFormsHiWeather\obj\Debug\WindowsFormsHiWeather.csprojAssemblyReference.cache
+C:\Users\gdu9\Source\Repos\hyungsungjae125\HiWeather11-14\WindowsFormsHiWeather\WindowsFormsHiWeather\obj\Debug\WindowsFormsHiWeather.Properties.Resources.resources
+C:\Users\gdu9\Source\Repos\hyungsungjae125\HiWeather11-14\WindowsFormsHiWeather\WindowsFormsHiWeather\obj\Debug\WindowsFormsHiWeather.csproj.GenerateResource.cache
+C:\Users\gdu9\Source\Repos\hyungsungjae125\HiWeather11-14\WindowsFormsHiWeather\WindowsFormsHiWeather\obj\Debug\WindowsFormsHiWeather.csproj.CoreCompileInputs.cache
+C:\Users\gdu9\Source\Repos\hyungsungjae125\HiWeather11-14\WindowsFormsHiWeather\WindowsFormsHiWeather\obj\Debug\WindowsFormsHiWeather.exe
+C:\Users\gdu9\Source\Repos\hyungsungjae125\HiWeather11-14\WindowsFormsHiWeather\WindowsFormsHiWeather\obj\Debug\WindowsFormsHiWeather.pdb
+C:\Users\gdu9\Source\Repos\hyungsungjae125\HiWeather11-14\WindowsFormsHiWeather\WindowsFormsHiWeather\obj\Debug\WindowsFormsHiWeather.Main.resources
